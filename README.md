@@ -1,0 +1,2 @@
+# HeavenlyLauncher
+Updater Heavenly Client
